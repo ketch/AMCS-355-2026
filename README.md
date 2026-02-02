@@ -1,8 +1,8 @@
 # AMCS 355
 ### Spring 2026
 
-Time: 8:30-10:00 a.m. every Sunday and Wednesday
-Location: Building 9, Room 4227 
+Time: 9:30-11:00 a.m. every Sunday and Wednesday
+Location: Building 1, Room 4326 
 
 Instructor: David Ketcheson  
 david.ketcheson@kaust.edu.sa   
