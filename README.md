@@ -1,8 +1,8 @@
 # AMCS 355
 ### Spring 2026
 
-Time: 8:30-10:00 a.m. every Sunday and Wednesday
-Location: Building 9, Room 4227 
+Time: 9:30-11:00 a.m. every Sunday and Wednesday
+Location: Building 1, Room 4326 
 
 Instructor: David Ketcheson  
 david.ketcheson@kaust.edu.sa   
@@ -15,6 +15,7 @@ Primary text: Solving Ordinary Differential Equations (2 vols. by Hairer, Norset
 
 Supplementary texts:
 
+- [Geometric Numerical Integration (Hairer, Lubich, & Wanner)](https://link-springer-com.kaust.idm.oclc.org/book/10.1007/978-3-662-05018-7)
 - [Numerical methods for ordinary differential equations (Butcher)](http://onlinelibrary.wiley.com/book/10.1002/9781119121534)
 - [Numerical solution of time-dependent advection-diffusion-reaction equations (Hundsdorfer & Verwer)](https://link.springer.com/book/10.1007%2F978-3-662-09017-6)
 
