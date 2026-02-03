@@ -11,3 +11,4 @@ that is referenced.
 - Some basic ideas are laid out in LeVeque section 7.5; review that first.
 - Then read HNW sections II.3-II.4.
 - For a more advanced kind of step size control often used in real-world applications, [see for instance this paper](https://link.springer.com/article/10.1007/s42967-021-00159-w)
+- For a more general and in-depth discussion of modern approaches to step size control see [Gustaf Soderlind's work](https://www.sciencedirect.com/science/article/pii/S0168927405000954)
