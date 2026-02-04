@@ -14,5 +14,6 @@ that is referenced.  Required reading is in ***bold italics***.
 - For a more general and in-depth discussion of modern approaches to step size control see [Gustaf Soderlind's work](https://www.sciencedirect.com/science/article/pii/S0168927405000954)
 
 ## Sunday, Feb. 8th: the logarithmic norm
+- Read ***HNW Section I.10 (Differential inequalities)***
 - Read ***Sections 1-4 of the [review paper](https://link.springer.com/article/10.1007/s10543-006-0069-9)***
 - If you want to go further, there is [an entire book on the subject](https://link.springer.com/book/10.1007/978-3-031-74379-5)
