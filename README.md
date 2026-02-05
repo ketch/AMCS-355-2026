@@ -2,6 +2,9 @@
 ### Spring 2026
 
 Time: 9:30-11:00 a.m. every Sunday and Wednesday
+
+During Ramadan, we will instead meet at 10:00-11:00.
+
 Location: Building 1, Room 4326 
 
 Instructor: David Ketcheson  
