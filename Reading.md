@@ -20,3 +20,11 @@ that is referenced.  Required reading is in ***bold italics***.
 - If you want to go further, there is [an entire book on the subject](https://link.springer.com/book/10.1007/978-3-031-74379-5)
 
 ## Wednesday, Feb. 11th: no class
+
+## B-series
+- Read **HNW Section II.2**
+- Read **Geometric Numerical Integration** (GNI) Sections I.1, III.1, and IX.1.
+- Homework: https://github.com/ketch/AMCS-355-2026/blob/main/homework/Homework%20for%20March%204.pdf
+- For the homework, you should refer to the Jupyter notebook shown in class: https://github.com/ketch/AMCS-355-2026/blob/main/in-class%20notebooks/oscillator_demo.ipynb
+- For the second question, you can learn about the Kronecker product here: https://en.wikipedia.org/wiki/Kronecker_product
+- For the last problem, you will also want to make use of the examples given here: https://ranocha.de/BSeries.jl/stable/tutorials/modified_equations/
