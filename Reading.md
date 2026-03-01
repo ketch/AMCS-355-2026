@@ -28,3 +28,6 @@ that is referenced.  Required reading is in ***bold italics***.
 - For the homework, you should refer to the Jupyter notebook shown in class: https://github.com/ketch/AMCS-355-2026/blob/main/in-class%20notebooks/oscillator_demo.ipynb
 - For the second question, you can learn about the Kronecker product here: https://en.wikipedia.org/wiki/Kronecker_product
 - For the last problem, you will also want to make use of the examples given here: https://ranocha.de/BSeries.jl/stable/tutorials/modified_equations/
+
+## Conservative methods
+- Read **GNI** Sections I.1-I.2, IV.1-IV.4
