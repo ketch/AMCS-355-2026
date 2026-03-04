@@ -31,3 +31,5 @@ that is referenced.  Required reading is in ***bold italics***.
 
 ## Conservative methods
 - Read **GNI** Sections I.1-I.2, IV.1-IV.4
+- Projection: **GNI** Section IV.4
+- Relaxation isn't discussed in textbooks; a good introduction is [here](https://link.springer.com/content/pdf/10.1007/s00211-020-01158-4.pdf) (not required reading)
