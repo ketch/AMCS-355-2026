@@ -37,3 +37,8 @@ that is referenced.  Required reading is in ***bold italics***.
 ## Symplectic methods
 - Read **GNI** Sections VI.1 - VI.4.
 - For Sunday, read GNI Sections VI.5 and IX.3.
+
+
+## Stiffness
+- For a review of basic ideas related to stiffness, I recommend Chapter 8 of LeVeque's *Finite Difference Methods*.
+- B-convergence: HW vol. II Section IV.15.
