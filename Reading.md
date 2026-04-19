@@ -42,3 +42,8 @@ that is referenced.  Required reading is in ***bold italics***.
 ## Stiffness
 - For a review of basic ideas related to stiffness, I recommend Chapter 8 of LeVeque's *Finite Difference Methods*.
 - B-convergence: HW vol. II Section IV.15.
+
+## Operator splitting, ImEx, and Exponential methods
+- [Pseudospectral Python mini-course](https://github.com/ketch/pseudospectralpython)
+- [ImEx book](https://epubs.siam.org/doi/book/10.1137/1.9781611978209)
+- [Nineteen dubious ways +1](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)
